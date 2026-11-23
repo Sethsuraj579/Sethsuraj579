@@ -47,15 +47,15 @@ I am an active contributor to the **Wikimedia Foundation** ecosystem, focusing o
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sethsuraj579e&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethsuraj579&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/suraj-seth)
+- **LinkedIn:** [linkedin.com/in/suraj-seth-a139a324a](https://linkedin.com/in/suraj-seth-a139a324a)
 - **Email:** sethsuraj520@gmail.com
 
 ⚡ *Fun fact: When I'm not configuring Nginx reverse proxies or submitting patches to Gerrit, you'll find me optimizing my high-protein meals for fitness and muscle growth!*
